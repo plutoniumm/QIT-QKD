@@ -1,1 +1,3 @@
-# QIT-QKD
+# QIT Quantum Key Distribution
+
+Temporary Repository
