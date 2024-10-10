@@ -6,7 +6,7 @@ export default defineConfig( {
   server: {
     port: 3000
   },
-  base: '/qit-qkd/',
+  base: '/QIT-QKD/',
   build: {
     outDir: 'dist'
   }
